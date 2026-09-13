@@ -1,0 +1,2 @@
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.managing.db.html
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.CreatingConnecting.MySQL.html
