@@ -18,15 +18,15 @@ A scalable multi-tier web application architecture deployed on AWS Elastic Beans
 
 ### 1. Elastic Beanstalk Environment Overview
 *Shows the active AWS Elastic Beanstalk environment running PHP 8.2 on Amazon Linux 2023 with the generated public endpoint domain.*
-![Elastic Beanstalk Environment](Project-2-–-Website-Orchestration-2/Environment overview - events _ Elastic Beanstalk _ us-east-1 - Google Chrome 21-May-24 6_32_30 PM.png)
+![Elastic Beanstalk Environment](https://github.com/SHUBHAMM1111/aws-ec2-php-multitier/blob/ede214a9c102322ededfafe466b41d3f4a8f4ecc/Project-2-%E2%80%93-Website-Orchestration-2/Environment%20overview%20-%20events%20_%20Elastic%20Beanstalk%20_%20us-east-1%20-%20Google%20Chrome%2021-May-24%206_32_30%20PM.png)
 
 ### 2. Website User Interface & Data Entry
 *The live PHP web interface successfully capturing employee details (ID, Name, DOB, Department) and returning a success message.*
-![Website UI Form](Project-2-–-Website-Orchestration-2/Environment overview - events _ Elastic Beanstalk _ us-east-1 - Google Chrome 21-May-24 6_32_43 PM.png)
+![Website UI Form](https://github.com/SHUBHAMM1111/aws-ec2-php-multitier/blob/ede214a9c102322ededfafe466b41d3f4a8f4ecc/Project-2-%E2%80%93-Website-Orchestration-2/Environment%20overview%20-%20events%20_%20Elastic%20Beanstalk%20_%20us-east-1%20-%20Google%20Chrome%2021-May-24%206_32_43%20PM.png)
 
 ### 3. Amazon RDS Database Storage Verification
 *MySQL terminal session confirming successful connection to the `ebdb` database and displaying records stored in the `employees` table from the web form.*
-![RDS Database Backend](Project-2-–-Website-Orchestration-2/Screenshot 21-May-24 6_32_05 PM.png)
+![RDS Database Backend]([Project-2-–-Website-Orchestration-2/Screenshot 21-May-24 6_32_05 PM.png](https://github.com/SHUBHAMM1111/aws-ec2-php-multitier/blob/650c03b4cdf47706eafceff6062aa42e51693541/Project-2-%E2%80%93-Website-Orchestration-2/Screenshot%2021-May-24%206_32_05%20PM.png))
 
 ---
 
